@@ -1,0 +1,1 @@
+geth --datadir ./data --networkid 8787 --port 2000 console
